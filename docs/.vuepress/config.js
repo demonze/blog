@@ -30,7 +30,6 @@ function sideBar (foldPath, title) {
 let config = {
   "title": "Demon",
   "description": "Simple Love, Simple Life",
-  "base": "/blog-code/",
   "head": [
     [
       "link",
